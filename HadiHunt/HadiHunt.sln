@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HadiHunt3", "HadiHunt3\", "{8A788D63-13CE-4FA1-974D-0B8FC6C99EBC}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64566"
+		Debug.AspNetCompiler.PhysicalPath = "HadiHunt3\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64566\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64566"
+		Release.AspNetCompiler.PhysicalPath = "HadiHunt3\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64566\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64566"
+		SlnRelativePath = "HadiHunt3\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A788D63-13CE-4FA1-974D-0B8FC6C99EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A788D63-13CE-4FA1-974D-0B8FC6C99EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A788D63-13CE-4FA1-974D-0B8FC6C99EBC}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A788D63-13CE-4FA1-974D-0B8FC6C99EBC}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6205E15-8A31-4E34-987E-3B3BA274D48A}
+	EndGlobalSection
+EndGlobal
